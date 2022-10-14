@@ -1,0 +1,9 @@
+[package]
+name = "ccomp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.65"
+pest = "2.4.0"
+pest_derive = "2.4.0"
